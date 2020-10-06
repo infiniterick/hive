@@ -1,4 +1,5 @@
-# nbdev template
+# Hive
+hdub's data access layer lib
 
-Use this template to more easily create your nbdev project.
+ported to python via the fastai nbdev approach
 
